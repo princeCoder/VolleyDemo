@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VolleyDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_name">Get Actors</string>
+    <string name="get_actors">Get data</string>
+    <string name="generic_server_down">Server is down</string>
+    <string name="no_internet">No internet</string>
+    <string name="generic_error">Error</string>
+    <string name="url">http://beta.json-generator.com/api/json/get/KhJ-hw3?indent=2</string>
+</resources>
